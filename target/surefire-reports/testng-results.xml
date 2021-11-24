@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-22T22:13:20 CST" name="Suite" finished-at="2021-11-22T22:13:28 CST" duration-ms="8148">
+    <groups>
+    </groups>
+    <test started-at="2021-11-22T22:13:20 CST" name="Test" finished-at="2021-11-22T22:13:28 CST" duration-ms="8148">
+      <class name="com.HRM.Testcases.LoginTest">
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.HRM.Testcases.LoginTest@1e6454ec]" started-at="2021-11-22T22:13:06 CST" name="launch" finished-at="2021-11-22T22:13:20 CST" duration-ms="14074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="Forgetpas()[pri:0, instance:com.HRM.Testcases.LoginTest@1e6454ec]" started-at="2021-11-22T22:13:20 CST" name="Forgetpas" finished-at="2021-11-22T22:13:21 CST" duration-ms="907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Forgetpas -->
+        <test-method signature="logindetails()[pri:0, instance:com.HRM.Testcases.LoginTest@1e6454ec]" started-at="2021-11-22T22:13:21 CST" name="logindetails" finished-at="2021-11-22T22:13:28 CST" duration-ms="7210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindetails -->
+        <test-method signature="Checktitle()[pri:0, instance:com.HRM.Testcases.LoginTest@1e6454ec]" started-at="2021-11-22T22:13:28 CST" name="Checktitle" finished-at="2021-11-22T22:13:28 CST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checktitle -->
+      </class> <!-- com.HRM.Testcases.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
